@@ -1,17 +1,69 @@
+   <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <title>Cup Cake!!!</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="style.css">
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <header>
+      <h1>You Are What You Eat. I Am a Cup Cake.</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li>About</li>
+        <li>Desserts</li>
+      </ul>
+
+       <!-- A Search form is another commmon non-linear way to navigate through a website. -->
+
+       <form>
+         <input type="search" name="q">
+         <input type="submit" value="Search">
+      </form>
+      <form>
+　       <input type="text"  name="q">
+　       <input type="reset" value="clear">
+      </form>
+     </nav>
+
     <!-- Here is our page's main content -->
     <main>
 
       <!-- It contains an article -->
       <article>
-       
-        <p><img src="LynnChiu/HW1/dessert-image1.jpg"></p>
-        <p><img src="LynnChiu/HW1/dessert-image2.jpg"></p>
-        <p><img src="LynnChiu/HW1/dessert-image3.jpg"></p>
-        <p><img src="LynnChiu/HW1/p-web-cake1.jpg"></p>
-        <p><img src="LynnChiu/HW1/p-web-cake2.jpg"></p>
-        <p><img src="LynnChiu/HW1/p-web-cake3.jpg"></p>
-        <p><img src="LynnChiu/HW1/p-web-cake4.jpg"></p>
-        <p><img src="LynnChiu/HW1/p-web-cake5.jpg"></p>
+         
+        <p><img src="LynnChiu/HW1/dessert-image1.jpg">
+           <input type="button" value="show more" onclick="location.href='要前往的網頁連結'">
+        </p>
+        <p><img src="LynnChiu/HW1/dessert-image2.jpg">
+           <input type="button" value="show more" onclick="location.href='要前往的網頁連結'">
+        </p>
+        <p><img src="LynnChiu/HW1/dessert-image3.jpg">
+           <input type="button" value="show more" onclick="location.href='要前往的網頁連結'">
+        </p>
+        <p><img src="LynnChiu/HW1/p-web-cake1.jpg">
+           <input type="button" value="show more" onclick="location.href='要前往的網頁連結'">
+        </p>
+        <p><img src="LynnChiu/HW1/p-web-cake2.jpg">
+           <input type="button" value="show more" onclick="location.href='要前往的網頁連結'">
+        </p>
+        <p><img src="LynnChiu/HW1/p-web-cake3.jpg">
+           <input type="button" value="show more" onclick="location.href='要前往的網頁連結'">
+        </p>
+        <p><img src="LynnChiu/HW1/p-web-cake4.jpg">
+           <input type="button" value="show more" onclick="location.href='要前往的網頁連結'">
+        </p>
+        <p><img src="LynnChiu/HW1/p-web-cake5.jpg">
+           <input type="button" value="show more" onclick="location.href='要前往的網頁連結'">
+        </p>
       </article>
 
       <!-- the aside content can also be nested within the main content -->
