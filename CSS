@@ -1,0 +1,16 @@
+header{font-family:
+
+}
+
+article{float:left;
+}
+
+aside li{
+display:inline;
+margin-right:10px;
+background-color:pink;}
+
+footer{
+text-align:right;
+background-color:black;
+clear:both;}
