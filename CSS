@@ -3,15 +3,17 @@ header{font-family:
 }
 
 article{float:left;
-border:white
+border:white;
 }
 
 aside li{
 display:inline;
 margin-right:10px;
-background-color:pink;}
+background-color:linear-gradient(to bottom, pink;
+}
 
 footer{
 text-align:right;
 background-color:black;
-clear:both;}
+clear:both;
+}
