@@ -40,31 +40,31 @@
       <table>
        <tr>
            <td>
-           <img src="LynnChiu/HW1/dessert-image1.jpg">
+           <img src="https://github.com/Chia-Lin-Chiu/Lynn.github.io/blob/62a59d1bb0145014271d813782cf3298281923c1/HW1/dessert-image1.jpg">
            <input type="button" value="show more" onclick="location.href='要前往的網頁連結'">
            </td>
            <td>
-           <img src="LynnChiu/HW1/dessert-image3.jpg">
-           <input type="button" value="show more" onclick="location.href='要前往的網頁連結'">
-           </td>
-        </tr>
-        <tr>
-           <td>
-           <img src="LynnChiu/HW1/dessert-image2.jpg">
-           <input type="button" value="show more" onclick="location.href='要前往的網頁連結'">
-           </td>
-           <td>
-           <img src="LynnChiu/HW1/p-web-cake1.jpg">
+           <img src="https://github.com/Chia-Lin-Chiu/Lynn.github.io/blob/62a59d1bb0145014271d813782cf3298281923c1/HW1/dessert-image3.jpg">
            <input type="button" value="show more" onclick="location.href='要前往的網頁連結'">
            </td>
         </tr>
         <tr>
            <td>
-        <img src="LynnChiu/HW1/p-web-cake2.jpg">
+           <img src="https://github.com/Chia-Lin-Chiu/Lynn.github.io/blob/62a59d1bb0145014271d813782cf3298281923c1/HW1/dessert-image2.jpg">
+           <input type="button" value="show more" onclick="location.href='要前往的網頁連結'">
+           </td>
+           <td>
+           <img src="https://github.com/Chia-Lin-Chiu/Lynn.github.io/blob/62a59d1bb0145014271d813782cf3298281923c1/HW1/p-web-cake1.jpg">
+           <input type="button" value="show more" onclick="location.href='要前往的網頁連結'">
+           </td>
+        </tr>
+        <tr>
+           <td>
+        <img src="https://github.com/Chia-Lin-Chiu/Lynn.github.io/blob/62a59d1bb0145014271d813782cf3298281923c1/HW1/p-web-cake2.jpg">
            <input type="button" value="show more" onclick="location.href='要前往的網頁連結'">
            </td>
             <td>
-            <img src="LynnChiu/HW1/p-web-cake3.jpg">
+            <img src="https://github.com/Chia-Lin-Chiu/Lynn.github.io/blob/62a59d1bb0145014271d813782cf3298281923c1/HW1/p-web-cake3.jpg">
             <input type="button" value="show more" onclick="location.href='要前往的網頁連結'">
            </td>
           </tr>
