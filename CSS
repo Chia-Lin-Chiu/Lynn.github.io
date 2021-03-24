@@ -3,14 +3,14 @@ header{font-family:papyrus;
 
 }
 
-article{float:left;
-border:white;
+table{float:left;
+border:1px solid #FFFFFF;
 }
 
 aside li{
 display:inline;
 margin-right:10px;
-background-color:linear-gradient(to bottom, pink);
+background-color:linear-gradient(to bottom, #FF9797);
 }
 
 footer{
